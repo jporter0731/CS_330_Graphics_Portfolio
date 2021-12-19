@@ -1,7 +1,7 @@
 # CS_330_Graphics_Portfolio
 
 # How do I approach designing software?
-**What new design skills has your work on the project helped you to craft?** 
+**What new design skills has your work on the project helped you to craft?** <br />
 Answer 
 **What design process did you follow for your project work?** 
 Answer 
